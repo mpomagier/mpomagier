@@ -13,6 +13,8 @@ Mateusz there, I am...
 ![Static Badge](https://img.shields.io/badge/-4479A1?logo=mysql&label=SQL&color=4479A1)
 
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+
 
 
 
