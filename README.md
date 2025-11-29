@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mateusz there, I am...
+Mateusz here, I am...
 
 
 # Technology
@@ -11,6 +11,12 @@ Mateusz there, I am...
 ![Static Badge](https://img.shields.io/badge/-F7DF1E?logo=javascript&label=JavaScript&color=F7DF1E)
 ![Static Badge](https://img.shields.io/badge/-3178C6?logo=typescript&label=TypeScript&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/-4479A1?logo=mysql&label=SQL&color=4479A1)
+
+
+# Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpomagier&theme=github_dark)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpomagier&theme=github_dark)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpomagier&theme=github_dark)
 
 
 ![Metrics](https://metrics.lecoq.io/mpomagier)
